@@ -9,7 +9,6 @@ It is gamified and made more soothing by adding the true experience of the natur
 # MACHINE LEARNING GAMIFIED TRAINER
 An enhanced way of home workout is added with proper validation of the activities through Machine Learning. Also to increase the user’s activities, interactive and enthusiastic games are introduced that supports exercise indirectly. For better understanding there is a virtual Gini which teaches you each module deeply in a 3D model. 
 
-https://github.com/Tejash11/Ml_model
 
 # AR Fitness Games
 The games are introduced in the application that makes the user indirectly exercise by playing games using his phone’s camera. They are based on augmented reality which allows the user to play the games anywhere possible. These games offer fitness exercise by the greed of winning exciting rewards and unknowingly force the user to stay healthy. 
