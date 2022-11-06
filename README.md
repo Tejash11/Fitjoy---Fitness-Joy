@@ -1,3 +1,7 @@
+Other repos which are yet to be integrated with this Android Interface - 
+https://github.com/soumenkp2/vr_yoga_fitjoy
+https://github.com/soumenkp2/AR_WALK_fitjoy
+
 # Problem Statement #
 Fitness is the soul of a happy life, it is actually the fuel of every persisting thing. But if we see our country’s health is already at stake and which is itself a threat for the future generations. This need to be rectified and adhering to the updated lifestyle we all have, there is an amazingly successful idea for the same. The one most common thing Indians have among them is a smartphone and a hectic schedule. Taking the same we have the most revolutionary  fitness application which supports gamification in every bit. Fitness is verified through each angle in our application as YOGA, WALKING, RUNNING, CYCLING, HOME WORKOUT and WEIGHT TRAINING. 
 
